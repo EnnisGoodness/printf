@@ -1,1 +1,2 @@
-s is a printf project in collaboration with Adenike Adesanmi
+This is a printf project written in C language in collaboration with Adenike Adesanmi
+
